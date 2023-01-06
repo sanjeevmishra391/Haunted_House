@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA;IACI,SAAS;IACT,UAAU;IACV,qBAAqB;AACzB;;AAEA;IACI,kBAAkB;AACtB,C","sources":["webpack:///./src/style.css"],"sourcesContent":["body {\r\n    margin: 0;\r\n    padding: 0;\r\n    background-color: red;\r\n}\r\n\r\n.canvas {\r\n    position: absolute;\r\n}"],"names":[],"sourceRoot":""}
